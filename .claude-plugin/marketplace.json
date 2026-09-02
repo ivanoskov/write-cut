@@ -1,0 +1,13 @@
+{
+  "name": "write-cut",
+  "owner": {
+    "name": "ivanoskov"
+  },
+  "plugins": [
+    {
+      "name": "write-cut",
+      "source": ".",
+      "description": "Жесткая редактура русского текста по методу книги «Пиши, сокращай»."
+    }
+  ]
+}

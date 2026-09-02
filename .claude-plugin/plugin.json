@@ -1,0 +1,10 @@
+{
+  "name": "write-cut",
+  "description": "Жесткая редактура русского текста по методу книги «Пиши, сокращай».",
+  "author": {
+    "name": "ivanoskov"
+  },
+  "homepage": "https://github.com/ivanoskov/write-cut",
+  "repository": "https://github.com/ivanoskov/write-cut",
+  "license": "MIT"
+}

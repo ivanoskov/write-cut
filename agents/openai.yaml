@@ -1,0 +1,7 @@
+interface:
+  display_name: "Write Cut"
+  short_description: "Жесткая редактура русского текста"
+  default_prompt: "Используй $write-cut, чтобы безжалостно отредактировать текст без потери смысла и фактов."
+
+policy:
+  allow_implicit_invocation: true
